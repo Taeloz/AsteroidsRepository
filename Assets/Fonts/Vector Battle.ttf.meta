@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7b0c18a4173647440b0ebe84398df16d
+timeCreated: 1507858726
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 18
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vector Battle
+  fontNames:
+  - Vector Battle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
