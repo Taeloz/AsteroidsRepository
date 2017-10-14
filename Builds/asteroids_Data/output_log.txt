@@ -7,25 +7,37 @@ Direct3D:
     VRAM:     4065 MB
     Driver:   22.21.13.8541
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\SLC\Asteroids\Builds\asteroids_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\SLC\Asteroids\Builds\asteroids_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\SLC\Asteroids\Builds\asteroids_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\SLC\Asteroids\Builds\asteroids_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\SLC\Asteroids\Builds\asteroids_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\SLC\Asteroids\Builds\asteroids_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\SLC\Asteroids\Builds\asteroids_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\SLC\Asteroids\Builds\asteroids_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\SLC\Asteroids\Builds\asteroids_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading D:\SLC\Asteroids\Builds\asteroids_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: D:\SLC\Asteroids\Builds\asteroids_Data\Managed\System.dll (this message is harmless)
-Platform assembly: D:\SLC\Asteroids\Builds\asteroids_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.019 seconds
+Platform assembly: D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\SLC\AsteroidsRepository\Builds\asteroids_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.172 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.997036 ms
+UnloadTime: 1.796346 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.884741 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 471.
+Total: 0.347259 ms (FindLiveObjects: 0.065580 ms CreateObjectMapping: 0.026469 ms MarkObjects: 0.251654 ms  DeleteObjects: 0.003160 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.315654 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 471.
+Total: 0.320790 ms (FindLiveObjects: 0.044641 ms CreateObjectMapping: 0.013432 ms MarkObjects: 0.259160 ms  DeleteObjects: 0.003160 ms)
+
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: d90 -> priority: 1 
-  Thread -> id: 32e0 -> priority: 1 
-  Thread -> id: 2dac -> priority: 1 
-  Thread -> id: 2f2c -> priority: 1 
+  Thread -> id: 255c -> priority: 1 
+  Thread -> id: 2474 -> priority: 1 
+  Thread -> id: 25e8 -> priority: 1 
+  Thread -> id: 20cc -> priority: 1 
