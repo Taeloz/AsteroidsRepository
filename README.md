@@ -1,7 +1,7 @@
 # AsteroidsRepository  
   
 GAME302 - Lab 3  
-SpaceRocks  
+Ex Astris Saxa  
 Matthew Brunton  
 
 3D Asteroids style game 
