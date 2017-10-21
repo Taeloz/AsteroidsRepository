@@ -46,6 +46,11 @@ public class gameController : MonoBehaviour {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             }
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 
     // Add to the score
